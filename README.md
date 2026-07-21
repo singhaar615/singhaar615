@@ -1,10 +1,10 @@
 ﻿# Welcome!
-# Hi, I'm Aaruni
+## Hi, I'm Aaruni!
 
 I'm an Electrical Engineering student at Purdue University with interests in
-[embedded systems], [SoC design], and [medical devices].
+embedded systems, ASIC/SoC design, and medical technology.
 
-I enjoy building projects that combine hardware, software, and signal processing to solve real-world problems.
+I enjoy building projects that combine hardware and software to solve real-world problems.
 
 ---
 

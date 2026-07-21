@@ -17,9 +17,9 @@ I enjoy building projects that combine creativity with hardware and software to 
 
 ## Currently Learning
 
-• Topic 1
-• Topic 2
-• Topic 3
+- Topic 1
+- Topic 2
+- Topic 3
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-black?style=flat-square)

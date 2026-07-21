@@ -4,7 +4,7 @@
 I'm an Electrical Engineering student at Purdue University with interests in
 embedded systems, ASIC/SoC design, and medical technology.
 
-I enjoy building projects that combine hardware and software to solve real-world problems.
+I enjoy building projects that combine creativity with hardware and software to solve real-world problems.
 
 ---
 
@@ -34,10 +34,7 @@ I enjoy building projects that combine hardware and software to solve real-world
 
 ### Design & Verification
 - Verilog / SystemVerilog
-- ModelSim / QuestaSim
 - KiCad
-- Cadence Virtuoso
-- FPGA Toolchains
 
 ---
 

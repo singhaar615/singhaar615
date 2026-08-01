@@ -17,7 +17,7 @@ I enjoy building projects that combine creativity with hardware and software to 
 
 - Communication Protocols
 - STM32 peripheral-level programming
-- Swimming 🏊
+- Swimming!
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-black?style=flat-square)

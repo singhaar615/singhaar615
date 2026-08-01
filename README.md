@@ -10,21 +10,21 @@ I enjoy building projects that combine creativity with hardware and software to 
 
 ## Currently Working On
 
-- [Project 1]
-- [Project 2]
-- [Research project]
-- Learning: [New technology/tool]
+- Real-Time Embedded Oscilloscope Platform: STM32-based, hands-on embedded systems build
+- STM32-Based Cognitive Training Console: interactive desktop project testing reaction time
 
 ## Currently Learning
 
-- Topic 1
-- Topic 2
-- Topic 3
+- Communication Protocols
+- STM32 peripheral-level programming
+- Swimming 🏊
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-black?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-black?style=flat-square)
 
 Feel free to reach out!

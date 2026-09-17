@@ -16,7 +16,7 @@ I enjoy building projects that combine creativity with hardware and software to 
 ## Currently Learning
 
 - Communication Protocols
-- STM32 peripheral-level programming
+- STM32Cubemx
 - Swimming!
 
 ### Languages
